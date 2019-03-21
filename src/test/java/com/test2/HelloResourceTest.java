@@ -34,7 +34,7 @@ public class HelloResourceTest {
                 .build();
     }
 
-
+//s
     @Test
     public void testHelloWorld() throws Exception {
         mockMvc.perform(get("/hello/s"))
