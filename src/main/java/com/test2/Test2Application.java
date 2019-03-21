@@ -1,4 +1,4 @@
-package com.test2.test2;
+package com.test2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
